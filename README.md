@@ -6,8 +6,6 @@ My background is rooted in **SQL, Python, and VBA**, which I used extensively fo
 
 Since then, I’ve been focused on **mobile and web development**, learning how to design, build, and ship full-stack applications with modern tools and clean architecture.
 
-I enjoy working on projects that sit at the intersection of **technology, problem-solving, and thoughtful product design**.
-
 ---
 
 ## 🛠️ Tools & Technologies
